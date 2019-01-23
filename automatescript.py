@@ -155,3 +155,5 @@ win=gtk.Window()
 win.show_all()
 win.connect("destroy", lambda wid: gtk.main_quit())
 gtk.main()
+
+kjdsak
